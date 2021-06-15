@@ -1,0 +1,80 @@
+Int Study Guide
+
+
+Day of Interview
+
+Make sure to ask clarifying questions!
+
+Try and stay within the confinements of the question. 
+It is ok to have duplicate answers for LP questions. Just doen't do it too much. 
+
+Take your time. Pause before answering if needed. Compose thoughts. 
+=================
+LP Questions 
+=================
+
+STAR Method: 
+
+1. Situation
+2. Task -> Mention timeline, scope, people (and of course specifically your part)
+3. Action -> What were the decisions made. Thought process as you progress through the action. 
+4. Results -> Was the goal achieved. Are there metrics. What went well / could have gone better. 
+
+Have examples (questions) and fit them into the situation. 
+Don't worry about the questions. 
+
+Both Coding and LP play a major role in decision. But not necessarly weighted. 
+
+Say I haven't encountered a situation before if that is the case for a specific question. 
+(No big deal there)
+
+Bar Raiser Round -> Exactly like all the other rounds. (Nothing to worry about)
+Trying to provide balance to create a non-bias interview. 
+
+=====================
+Coding Section 
+=====================
+
+About 25 to 30 minutes. 
+
+1 part problem but sometimes 2/3
+Don't start coding right away. 
+Ask clarifying questions. 
+Assumptions + edge cases + use cases. 
+Take up to 5-10 minutes to ask questions and clarify what the problem is. 
+They make the questions ambiguous so you can ask these questions. 
+
+1. Data Structures & Algo
+Data Structures -> Map, Array, Trees Etc
+Algo -> Sortings, Greedy, DFS/BFS, divide and Concure
+
+Talking out loud! Make sure you are not missing a fundemental part of the question. 
+
+Totally fine to start with brute-force (Just talk throgh it)
+
+thinking through all the use cases.
+
+Have good variables. 
+Comment when necessary
+Don't worry too much about syntax. You can use library. 
+
+======================
+System Design
+======================
+
+1. Ask clarifying Questions -> Make sure you are writing down a list of requirments 
+2. Try and find the scope. (SLAs etc)
+3. Consider both relational type schema or No database etc 
+4. try to not over engineer a solution. Simple = best
+5. Try not to make too many assumptions. Ask questions! 
+6. Scaling! Talk about how you would use a general scaling concept specifically for the problem at hand. 
+7. Part of the above would be to potentially consider the cost at hand. (just shows that you are considering this)
+
+Do you expect to use a design pattern? If required part of solving the problem then sure it could be useful. 
+
+Practice this by looking up at designs etc and thinking about how to build them. 
+
+It is recomended to think of specific numbers like how large database / server etc. 
+
+8. It is useful to go through api design
+
